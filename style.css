@@ -1,0 +1,62 @@
+
+body {
+    background-image: url("tesla auto's.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+
+ul {
+  list-style-type: none; 
+  padding: 0;
+  text-align: center; 
+}
+
+ul li {
+  display: inline; 
+  margin-right: 20px; 
+}
+
+ul li a {
+
+  font-size: 20px; 
+ 
+}
+
+ul li a:hover {
+  text-decoration: underline; 
+}
+
+   
+   #geschiedenis-tesla { 
+   
+        h1 {
+            font-size: 50px; 
+            text-align: center; 
+            margin-top: 50px; 
+        }
+
+        a {
+            display: block;
+            text-align: center;
+            font-size: 20px;
+            margin-bottom: 35px;
+        }
+
+        .block {
+            border: 1px solid #ccc; /* Grijze rand rondom het blok */
+            padding: 20px;          /* Ruimte binnenin het blok */
+            margin: 20px auto;      /* Marges boven en onder, en centreren */
+            max-width: 600px;       /* Maximale breedte van het blok */
+            background-color: #ffffff; /* Lichtgrijze achtergrond */
+            border-radius: 8px;     /* Afgeronde hoeken */
+        }
+
+        h2 {
+            font-size: 24px;        /* Grotere tekstgrootte voor de koppen */
+            margin-bottom: 15px;    /* Ruimte onder de kop */
+        }
+    
+
+
+
